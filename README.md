@@ -1,7 +1,8 @@
 # **Test_task** :floppy_disk:
 
 ## **Процесс тестирования нового функционала**
-С решением первого тестового задания можно ознакомиться, перейдя по следующей ссылке [Стратегия тестирования нового функционала](https://docs.google.com/document/d/17VZNm7M8pr96l96ABIZbQ7HT198VHFanW7n82hp2H4c/edit?usp=sharing)
+Работа выполнена в Google Docs.
+С решением задания можно ознакомиться, перейдя по следующей ссылке :point_right: [Стратегия тестирования нового функционала.](https://docs.google.com/document/d/17VZNm7M8pr96l96ABIZbQ7HT198VHFanW7n82hp2H4c/edit?usp=sharing)
 
 ---
 
