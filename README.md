@@ -1,12 +1,13 @@
 # **Test_task** :floppy_disk:
 
-## Процесс тестирования нового функционала
+## **Процесс тестирования нового функционала**
+С решением первого тестового задания можно ознакомиться, перейдя по следующей ссылке [Стратегия тестирования нового функционала](https://docs.google.com/document/d/17VZNm7M8pr96l96ABIZbQ7HT198VHFanW7n82hp2H4c/edit?usp=sharing)
 
 ---
 
-## Автоматизация тестирования API. Часть 1
+## **Автоматизация тестирования API. Часть 1**
 
-## Description
+## *Description*
 
 Test_task is a set of test scripts to test the functionality of API endpoints.
 
@@ -14,7 +15,7 @@ Test_task is a set of test scripts to test the functionality of API endpoints.
   *  Methods: GET /posts, POST /posts, DELETE /posts
   *  Parametrs: userId, id, title, body
 
-## Installation and Run
+## *Installation and Run*
 
 1. Clone repo: `git clone https://github.com/RadmirSh/Test_task.git`
 2. Install Dependencies: `pip install -r requirements.txt`
@@ -24,9 +25,9 @@ Requires Python 3 and Requests
 
 ---
 
-## Автоматизация тестирования API. Часть 2
+## **Автоматизация тестирования API. Часть 2**
 
-## Dockerfile 🐳
+## *Dockerfile* 🐳
 
 ```python
 FROM python:3.10
